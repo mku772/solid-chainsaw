@@ -12,12 +12,13 @@ solid-chainsaw is a lightweight yet powerful toolkit designed to simplify data p
 ## Getting Started
 
 1. **Clone the repo:**
-git clone https://github.com/mku772/solid-chainsaw.git 
+git clone https://github.com/mku772/solid-chainsaw.git
+
 cd solid-chainsaw
-2. **Installation:**  
+3. **Installation:**  
    *(Add installation instructions here for your language or environment)*
 
-3. **Usage:**  
+4. **Usage:**  
    *(Provide simple usage examples here as your project develops)*
 
 ## Contributing
